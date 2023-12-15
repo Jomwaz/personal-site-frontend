@@ -35,6 +35,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# assets
-/public/images
-/public/docs
+# private assets
